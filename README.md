@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! 👋 I'm Bui Phuoc Khang
 
 🎓 **Integrated BSc & MSc in Computer Science**  
-💼 **Sophomore, Department of Computer Science and Engineering at KNU**
+💼 **Senior, Department of Computer Science and Engineering at KNU**
 
 ---
 
