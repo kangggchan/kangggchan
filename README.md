@@ -1,13 +1,13 @@
 ## Welcome to my GitHub! 👋 I'm Bui Phuoc Khang
 
-🎓 **Integrated BSc & MSc in Computer Science**  
-💼 **Senior, Department of Computer Science and Engineering at KNU**
+🎓 **BSc in Computer Science**  
+💼 **Graduated from Department of Computer Science and Engineering at KNU**
 
 ---
 
 ### 🌟 About Me
 
-I’m a curious and passionate student who thrives on discovering new things and solving problems that pique my interest. Once a challenge captivates me, I often find myself thinking about it all day—even as I sleep. I’m known for my dedication to finding solutions, often waking up with the answers fresh in my mind!
+I’m a curious and passionate person who thrives on discovering new things and solving problems that pique my interest. Once a challenge captivates me, I often find myself thinking about it all day—even as I sleep. I’m known for my dedication to finding solutions, often waking up with the answers fresh in my mind!
 
 ### ⭐ Interests
 
