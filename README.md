@@ -1,7 +1,7 @@
 ## Welcome to my GitHub! 👋 I'm Bui Phuoc Khang
 
 🎓 **BSc in Computer Science at Kyungpook National University**  
-💼 **R&D Software Engineer at Valeo Mobility Korea**
+💼 **(Internship) R&D Software Engineer at Valeo Mobility Korea**
 
 ---
 
