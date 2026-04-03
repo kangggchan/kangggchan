@@ -11,7 +11,7 @@ I’m a curious and passionate person who thrives on discovering new things and 
 
 ### ⭐ Interests
 
-- **Computer Vision**
+- **Computer Vision / Sensor Fusion**
 - **Autonomous Vehicles**
 - **Artificial Intelligence / Machine Learning**
 
